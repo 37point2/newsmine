@@ -70,7 +70,11 @@ def fetch_feed_data(ts, **kwargs):
             
             with open(output_path, 'w') as out:
                 r = requests.get(feed_url, timeout=5)
-                print('Id: {}\tResponse: {}\tURL: {}'.format(src_id, r.status_code, feed_url))
+                print('Id: {}\tResponse: {}\tErrors: {}\tURL: {}'.format(
+                        src_id,
+                        r.status_code,
+                        errors,
+                        feed_url))
                 out.write(r.text)
 
         except Exception as e:
