@@ -1,0 +1,2806 @@
+#
+# United States
+#
+# People and Society
+http://rss.cnn.com/rss/cnn_topstories.rss
+http://rss.cnn.com/rss/cnn_us.rss
+https://www.huffingtonpost.com/section/college/feed
+https://www.huffingtonpost.com/section/crime/feed
+https://www.huffingtonpost.com/section/black-voices/feed
+https://www.huffingtonpost.com/section/fifty/feed
+https://www.huffingtonpost.com/section/queer-voices/feed
+https://www.huffingtonpost.com/section/us-news/feed
+https://www.huffingtonpost.com/section/education/feed
+https://www.huffingtonpost.com/section/latino-voices/feed
+https://www.huffingtonpost.com/section/religion/feed
+https://www.huffingtonpost.com/section/women/feed
+http://feeds.foxnews.com/foxnews/national
+http://www.economist.com/sections/united-states/rss.xml
+http://rss.nytimes.com/services/xml/rss/nyt/US.xml
+http://www.latimes.com/nation/rss2.0.xml
+http://hosted.ap.org/lineups/USHEADS-rss_2.0.xml?SITE=SCAND&SECTION=HOME
+http://rssfeeds.usatoday.com/UsatodaycomNation-TopStories
+http://abcnews.go.com/abcnews/usheadlines
+https://www.cbsnews.com/latest/rss/us
+http://feeds.reuters.com/reuters/peopleNews
+http://feeds.reuters.com/Reuters/domesticNews
+# Government and Politics
+https://www.huffingtonpost.com/section/politics/feed
+http://rss.cnn.com/rss/cnn_allpolitics.rss
+http://feeds.foxnews.com/foxnews/politics
+http://feeds.washingtonpost.com/rss/politics
+http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
+http://www.latimes.com/nation/politics/rss2.0.xml
+https://www.politico.com/rss/congress.xml
+https://www.politico.com/rss/politics08.xml
+http://thehill.com/taxonomy/term/1132/feed
+http://thehill.com/taxonomy/term/1130/feed
+http://thehill.com/taxonomy/term/1131/feed
+http://thehill.com/taxonomy/term/43/feed
+http://thehill.com/taxonomy/term/25208/feed
+http://thehill.com/taxonomy/term/1501/feed
+http://thehill.com/taxonomy/term/1504/feed
+http://thehill.com/taxonomy/term/1077/feed
+http://abcnews.go.com/abcnews/politicsheadlines
+https://www.washingtontimes.com/rss/headlines/news/politics/
+https://www.cbsnews.com/latest/rss/politics
+http://feeds.reuters.com/Reuters/PoliticsNews
+# Economy
+https://www.huffingtonpost.com/section/business/feed
+http://rss.cnn.com/rss/money_latest.rss
+http://feeds.washingtonpost.com/rss/business
+http://www.economist.com/sections/business-finance/rss.xml
+http://www.economist.com/sections/economics/rss.xml
+http://www.economist.com/sections/leaders/rss.xml
+http://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+http://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml
+http://rss.nytimes.com/services/xml/rss/nyt/Economy.xml
+http://www.nytimes.com/services/xml/rss/nyt/JobMarket.xml
+http://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml
+http://www.latimes.com/business/autos/rss2.0.xml
+http://www.latimes.com/business/jobs/rss2.0.xml
+http://www.latimes.com/business/jobs/rss2.0.xml
+https://www.politico.com/rss/economy.xml
+http://thehill.com/taxonomy/term/30/feed
+http://thehill.com/taxonomy/term/2005/feed
+http://rssfeeds.usatoday.com/UsatodaycomMoney-TopStories
+http://abcnews.go.com/abcnews/moneyheadlines
+https://www.washingtontimes.com/rss/headlines/news/business-economy/
+https://www.cbsnews.com/latest/rss/moneywatch
+http://feeds.reuters.com/reuters/businessNews
+http://feeds.reuters.com/reuters/companyNews
+http://feeds.reuters.com/news/wealth
+https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEVlZXw==
+https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEFpTXA==
+https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEFpTXw==
+https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJdEVhZXw==
+http://hbswk.hbs.edu/stories-rss.aspx
+# Energy
+http://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml
+https://www.politico.com/rss/energy.xml
+http://thehill.com/taxonomy/term/28/feed
+# Communications
+https://www.huffingtonpost.com/section/science/feed
+http://rss.cnn.com/rss/cnn_tech.rss
+http://feeds.foxnews.com/foxnews/science
+http://feeds.foxnews.com/foxnews/tech
+http://www.economist.com/sections/science-technology/rss.xml
+http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+http://rss.nytimes.com/services/xml/rss/nyt/Science.xml
+http://rss.nytimes.com/services/xml/rss/nyt/Space.xml
+http://thehill.com/taxonomy/term/27/feed
+http://thehill.com/taxonomy/term/2004/feed
+http://rssfeeds.usatoday.com/usatoday-TechTopStories
+http://abcnews.go.com/abcnews/technologyheadlines
+https://www.cbsnews.com/latest/rss/tech
+http://feeds.reuters.com/reuters/scienceNews
+http://feeds.reuters.com/reuters/technologyNews
+https://www.eurekalert.org/rss/technology_engineering.xml
+https://www.sciencedaily.com/rss/matter_energy/engineering.xml
+https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeGVtXWQ==
+https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEFpQWg==
+# Transportation
+http://thehill.com/taxonomy/term/38/feed
+http://thehill.com/taxonomy/term/25207/feed
+# Military and Security
+https://www.politico.com/rss/defense.xml
+http://thehill.com/taxonomy/term/39/feed
+http://thehill.com/taxonomy/term/25206/feed
+https://www.washingtontimes.com/rss/headlines/news/security/
+# Transnational Issues
+
+# World News
+http://www.wsj.com/xml/rss/3_7085.xml
+https://www.huffingtonpost.com/section/world-news/feed
+http://rss.cnn.com/rss/cnn_world.rss
+http://feeds.foxnews.com/foxnews/world
+http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
+http://feeds.washingtonpost.com/rss/world
+http://www.economist.com/sections/middle-east-africa/rss.xml
+http://www.economist.com/sections/international/rss.xml
+http://www.economist.com/sections/europe/rss.xml
+http://www.economist.com/sections/asia/rss.xml
+http://rss.nytimes.com/services/xml/rss/nyt/World.xml
+http://rss.nytimes.com/services/xml/rss/nyt/Africa.xml
+http://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml
+http://rss.nytimes.com/services/xml/rss/nyt/Europe.xml
+http://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml
+http://www.latimes.com/world/afghanistan-pakistan/rss2.0.xml
+http://www.latimes.com/world/africa/rss2.0.xml
+http://www.latimes.com/world/asia/rss2.0.xml
+http://www.latimes.com/world/europe/rss2.0.xml
+http://www.latimes.com/world/middleeast/rss2.0.xml
+http://www.latimes.com/world/rss2.0.xml
+http://rssfeeds.usatoday.com/UsatodaycomWorld-TopStories
+http://abcnews.go.com/abcnews/internationalheadlines
+https://www.cbsnews.com/latest/rss/world
+http://feeds.reuters.com/Reuters/worldNews
+# Regional and Cities
+http://feeds.washingtonpost.com/rss/local
+https://www.huffingtonpost.com/topic/detroit/feed
+https://www.huffingtonpost.com/topic/los-angeles/feed
+https://www.huffingtonpost.com/topic/new-york-city/feed
+https://www.huffingtonpost.com/topic/san-francisco/feed
+https://www.huffingtonpost.com/topic/chicago/feed
+https://www.huffingtonpost.com/topic/denver/feed
+https://www.huffingtonpost.com/topic/miami/feed
+http://www.economist.com/sections/americas/rss.xml
+http://rss.nytimes.com/services/xml/rss/nyt/Americas.xml
+http://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml
+http://www.latimes.com/local/politics/rss2.0.xml
+http://www.latimes.com/world/mexico-americas/rss2.0.xml
+http://rssfeeds.usatoday.com/UsatodaycomWashington-TopStories
+# Environment
+https://www.huffingtonpost.com/section/green/feed
+http://rss.nytimes.com/services/xml/rss/nyt/Environment.xml
+http://thehill.com/taxonomy/term/2003/feed
+http://feeds.reuters.com/reuters/environment
+#
+# China
+#
+# People and Society
+http://www.scmp.com/rss/4/feed
+http://www.scmp.com/rss/318202/feed
+# Government and Politics
+http://www.scmp.com/rss/323046/feed
+# Economy
+http://www.scmp.com/rss/318200/feed
+http://www.scmp.com/rss/318421/feed
+http://www.scmp.com/rss/7/feed
+http://www.scmp.com/rss/12/feed
+http://www.economist.com/sections/china/rss.xml
+# Energy
+
+# Communications
+http://www.scmp.com/rss/36/feed
+http://www.scmp.com/rss/320663/feed
+# Transportation
+
+# Military and Security
+http://www.scmp.com/rss/318198/feed
+http://www.scmp.com/rss/318199/feed
+# Transnational Issues
+http://www.scmp.com/rss/323047/feed
+http://www.scmp.com/rss/322262/feed
+http://www.scmp.com/rss/322263/feed
+http://www.scmp.com/rss/322264/feed
+http://www.scmp.com/rss/322265/feed
+http://www.scmp.com/rss/322266/feed
+http://www.scmp.com/rss/322514/feed
+# World News
+http://feeds.bbci.co.uk/news/world/asia/china/rss.xml
+https://www.theguardian.com/world/china/rss
+https://news.google.com/news/rss/search/section/q/china/china?gl=US&ned=us&hl=en
+# Regional and Cities
+
+# Environment
+
+#
+# India
+#
+# People and Society
+https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+https://timesofindia.indiatimes.com/rssfeeds/7098551.cms
+https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms
+https://timesofindia.indiatimes.com/rssfeeds/913168846.cms
+http://indianexpress.com/section/india/feed/
+http://feeds.feedburner.com/ndtvnews-top-stories
+http://feeds.feedburner.com/ndtvnews-people
+http://indiatoday.intoday.in/rss/article.jsp?sid=36
+# Government and Politics
+http://indianexpress.com/section/india/politics/feed/
+
+# Economy
+https://timesofindia.indiatimes.com/rssfeeds/1898055.cms
+http://feeds.feedburner.com/ndtvprofit-latest
+http://indiatoday.intoday.in/rss/article.jsp?sid=34
+# Energy
+
+# Communications
+https://timesofindia.indiatimes.com/rssfeeds/5880659.cms
+https://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms
+http://indianexpress.com/section/technology/feed/
+http://feeds.feedburner.com/gadgets360-latest
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+http://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+https://timesofindia.indiatimes.com/rssfeeds/296589292.cms
+https://timesofindia.indiatimes.com/rssfeeds/30359486.cms
+https://timesofindia.indiatimes.com/rssfeeds/7098551.cms
+https://timesofindia.indiatimes.com/rssfeeds/30359534.cms
+https://timesofindia.indiatimes.com/rssfeeds/3907412.cms
+https://timesofindia.indiatimes.com/rssfeeds/2177298.cms
+https://timesofindia.indiatimes.com/rssfeeds/1898274.cms
+https://timesofindia.indiatimes.com/rssfeeds/1898184.cms
+https://timesofindia.indiatimes.com/rssfeeds/1898272.cms
+https://timesofindia.indiatimes.com/rssfeeds/671314.cms
+http://indianexpress.com/section/world/feed/
+http://indianexpress.com/section/world/asia/feed/
+http://feeds.feedburner.com/ndtvnews-world-news
+https://news.google.com/news/rss/?ned=in&gl=IN&hl=en-IN
+http://indiatoday.intoday.in/rss/article.jsp?sid=61
+# Regional and Cities
+https://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms
+https://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms
+https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms
+https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms
+https://timesofindia.indiatimes.com/rssfeeds/2950623.cms
+https://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms
+https://timesofindia.indiatimes.com/rssfeeds/3947060.cms
+https://timesofindia.indiatimes.com/rssfeeds/4118235.cms
+https://timesofindia.indiatimes.com/rssfeeds/4118235.cms
+https://timesofindia.indiatimes.com/rssfeeds/6547154.cms
+https://timesofindia.indiatimes.com/rssfeeds/4118215.cms
+https://timesofindia.indiatimes.com/rssfeeds/3942695.cms
+https://timesofindia.indiatimes.com/rssfeeds/3947067.cms
+https://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms
+https://timesofindia.indiatimes.com/rssfeeds/3947051.cms
+https://timesofindia.indiatimes.com/rssfeeds/3942690.cms
+https://timesofindia.indiatimes.com/rssfeeds/3942693.cms
+https://timesofindia.indiatimes.com/rssfeeds/8021716.cms
+https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms
+https://timesofindia.indiatimes.com/rssfeeds/3012535.cms
+https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms
+https://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms
+https://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms
+https://timesofindia.indiatimes.com/rssfeeds/3012544.cms
+https://timesofindia.indiatimes.com/rssfeeds/442002.cms
+https://timesofindia.indiatimes.com/rssfeeds/3942663.cms
+https://timesofindia.indiatimes.com/rssfeeds/4118245.cms
+https://timesofindia.indiatimes.com/rssfeeds/3942660.cms
+https://timesofindia.indiatimes.com/rssfeeds/3942666.cms
+https://timesofindia.indiatimes.com/rssfeeds/3947071.cms
+https://timesofindia.indiatimes.com/rssfeeds/3831863.cms
+https://timesofindia.indiatimes.com/rssfeeds/878156304.cms
+http://feeds.feedburner.com/ndtvnews-cities-news
+http://feeds.feedburner.com/ndtvnews-south
+http://indiatoday.intoday.in/rss/article.jsp?sid=21
+# Environment
+https://timesofindia.indiatimes.com/rssfeeds/2647163.cms
+http://indianexpress.com/section/world/climate-change/feed/
+#
+# Japan
+#
+# People and Society
+https://www.japantimes.co.jp/feed/topstories/
+https://www.japantimes.co.jp/news/social-issues-world/feed/
+# Government and Politics
+https://www.japantimes.co.jp/news/politics-diplomacy-world/feed/
+# Economy
+https://www.japantimes.co.jp/news/financial-markets/feed/
+https://www.japantimes.co.jp/news/corporate-business/feed/
+https://www.japantimes.co.jp/news/economy-business/feed/
+# Energy
+
+# Communications
+https://www.japantimes.co.jp/news/tech/feed/
+https://www.japantimes.co.jp/news/science-health-world/feed/
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+https://www.japantimes.co.jp/news/asia-pacific/feed/
+# Environment
+
+#
+# Germany
+#
+# People and Society
+https://www.thelocal.de/feeds/rss.php
+http://rss.dw.com/rdf/rss-en-ger
+http://www.spiegel.de/international/germany/index.rss
+# Government and Politics
+
+# Economy
+http://rss.dw.com/rdf/rss-en-bus
+http://www.spiegel.de/international/business/index.rss
+# Energy
+
+# Communications
+http://rss.dw.com/xml/rss_en_science
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+https://www.theguardian.com/world/germany/rss
+http://rss.dw.com/rdf/rss-en-world
+http://www.spiegel.de/international/index.rss
+http://www.spiegel.de/international/world/index.rss
+# Regional and Cities
+http://rss.dw.com/rdf/rss-en-eu
+http://www.spiegel.de/international/europe/index.rss
+# Environment
+http://rss.dw.com/xml/rss_en_environment
+#
+# Russia
+#
+# People and Society
+https://www.rt.com/rss/news/
+http://www.pravdareport.com/society/export.xml
+http://tass.com/rss/v2.xml
+https://sputniknews.com/export/rss2/archive/index.xml
+https://sputniknews.com/export/rss2/russia/index.xml
+# Government and Politics
+https://www.rt.com/rss/politics/
+# Economy
+http://www.pravdareport.com/business/export.xml
+https://www.rt.com/rss/business/
+https://sputniknews.com/export/rss2/business/index.xml
+# Energy
+
+# Communications
+http://www.pravdareport.com/science/export.xml
+https://sputniknews.com/export/rss2/science/index.xml
+# Transportation
+
+# Military and Security
+http://www.pravdareport.com/hotspots/export.xml
+# Transnational Issues
+
+# World News
+http://www.pravdareport.com/world/export.xml
+http://www.pravdareport.com/russia/export.xml
+https://www.rt.com/rss/uk/
+https://www.rt.com/rss/usa/
+https://sputniknews.com/export/rss2/us/index.xml
+https://sputniknews.com/export/rss2/europe/index.xml
+https://sputniknews.com/export/rss2/latam/index.xml
+https://sputniknews.com/export/rss2/middleeast/index.xml
+https://sputniknews.com/export/rss2/asia/index.xml
+https://sputniknews.com/export/rss2/africa/index.xml
+# Regional and Cities
+
+# Environment
+
+#
+# Brazil
+#
+# People and Society
+http://riotimesonline.com/brazil-news/tag/brazil-news/feed/
+http://www.jb.com.br/noticias/rss.xml
+http://feeds.folha.uol.com.br/emcimadahora/rss091.xml
+http://feeds.folha.uol.com.br/educacao/rss091.xml
+http://www.correiobraziliense.com.br/rss/noticia/brasil/rss.xml
+http://www.valor.com.br/rss
+# Government and Politics
+http://feeds.folha.uol.com.br/poder/rss091.xml
+http://feeds.folha.uol.com.br/mundo/rss091.xml
+http://www.correiobraziliense.com.br/rss/noticia/politica/rss.xml
+# Economy
+http://feeds.folha.uol.com.br/mercado/rss091.xml
+http://www.correiobraziliense.com.br/rss/noticia/economia/rss.xml
+# Energy
+
+# Communications
+http://feeds.folha.uol.com.br/tec/rss091.xml
+http://www.correiobraziliense.com.br/rss/noticia/tecnologia/rss.xml
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+https://www.theguardian.com/world/brazil/rss
+http://www.correiobraziliense.com.br/rss/noticia/mundo/rss.xml
+# Regional and Cities
+http://www.correiobraziliense.com.br/rss/noticia/cidades/rss.xml
+# Environment
+
+#
+# United Kingdom
+#
+# People and Society
+https://www.theguardian.com/uk-news/rss
+http://feeds.bbci.co.uk/news/uk/rss.xml
+http://www.independent.co.uk/news/uk/rss
+http://feeds.skynews.com/feeds/rss/home.xml
+http://feeds.skynews.com/feeds/rss/uk.xml
+# Government and Politics
+http://feeds.bbci.co.uk/news/politics/rss.xml
+http://feeds.skynews.com/feeds/rss/politics.xml
+# Economy
+http://www.independent.co.uk/news/business/rss
+http://feeds.skynews.com/feeds/rss/business.xml
+http://www.economist.com/sections/britain/rss.xml
+# Energy
+
+# Communications
+http://feeds.skynews.com/feeds/rss/technology.xml
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+http://www.independent.co.uk/news/world/rss
+http://feeds.skynews.com/feeds/rss/world.xml
+http://feeds.skynews.com/feeds/rss/us.xml
+# Regional and Cities
+http://feeds.bbci.co.uk/news/england/rss.xml
+http://feeds.bbci.co.uk/news/northern_ireland/rss.xml
+http://feeds.bbci.co.uk/news/scotland/rss.xml
+http://feeds.bbci.co.uk/news/wales/rss.xml
+http://www.independent.co.uk/news/world/europe/rss
+# Environment
+
+#
+# France
+#
+# People and Society
+http://www.france24.com/en/france/timeline/rss
+http://www.france24.com/en/top-stories/rss
+http://www.france24.com/en/france/rss
+https://www.thelocal.fr/feeds/rss.php
+# Government and Politics
+
+# Economy
+http://www.france24.com/en/business-tech/rss
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+http://www.france24.com/en/africa/rss
+http://www.france24.com/en/middle-east/rss
+http://www.france24.com/en/americas/rss
+http://www.france24.com/en/asia-pacific/rss
+https://www.theguardian.com/world/france/rss
+# Regional and Cities
+http://www.france24.com/en/europe/rss
+# Environment
+
+#
+# Mexico
+#
+# People and Society
+https://www.reforma.com/rss/negocios.xml
+https://www.reforma.com/rss/cultura.xml
+https://www.reforma.com/rss/ciudad.xml
+https://www.reforma.com/rss/nacional.xml
+https://www.reforma.com/rss/gente.xml
+http://www.eluniversal.com.mx/rss.xml
+http://www.jornada.unam.mx/rss/capital.xml?v=1
+https://www.publimetro.com.mx/mx/rss/noticias.xml
+https://www.elnorte.com/rss/gente.xml
+https://www.informador.mx/rss/universidades.xml
+https://www.informador.mx/rss/mexico.xml
+http://diario.mx/RSS/Nacional/
+# Government and Politics
+https://www.reforma.com/rss/justicia.xml
+https://www.reforma.com/rss/cancha.xml
+https://www.reforma.com/rss/estados.xml
+http://www.jornada.unam.mx/rss/politica.xml?v=1
+http://www.jornada.unam.mx/rss/estados.xml?v=1
+https://www.elnorte.com/rss/cancha.xml
+https://www.elnorte.com/rss/estados.xml
+https://www.informador.mx/rss/gobierno-del-estado.xml
+https://www.informador.mx/rss/ayuntamiento-de-zapopan.xml
+https://www.informador.mx/rss/congreso-local.xml
+https://www.informador.mx/rss/gobierno-de-mexico.xml
+https://www.informador.mx/rss/elecciones-mexico-2018.xml
+# Economy
+http://www.jornada.unam.mx/rss/economia.xml?v=1
+https://www.elnorte.com/rss/negocios.xml
+https://www.informador.mx/rss/economia.xml
+https://www.informador.mx/rss/economia-mexicana.xml
+# Energy
+
+# Communications
+http://www.jornada.unam.mx/rss/ciencias.xml?v=1
+https://www.reforma.com/rss/ciencia.xml
+https://www.elnorte.com/rss/ciencia.xml
+# Transportation
+https://www.reforma.com/rss/automotriz.xml
+https://www.elnorte.com/rss/automotriz.xml
+https://www.informador.mx/rss/vialidad.xml
+https://www.informador.mx/rss/transporte-publico.xml
+# Military and Security
+https://www.elnorte.com/rss/seguridad.xml
+https://www.informador.mx/rss/seguridad.xml
+# Transnational Issues
+
+# World News
+https://www.reforma.com/rss/internacional.xml
+http://www.jornada.unam.mx/rss/mundo.xml?v=1
+https://www.elnorte.com/rss/internacional.xml
+https://www.informador.mx/rss/internacional.xml
+http://diario.mx/RSS/Internacional/
+# Regional and Cities
+http://www.jornada.unam.mx/rss/capital.xml?v=1
+https://www.publimetro.com.mx/mx/rss/global.xml
+https://www.elnorte.com/rss/local.xml
+https://www.informador.mx/rss/jalisco.xml
+https://www.informador.mx/rss/ayuntamiento-de-guadalajara.xml
+https://www.elheraldodechihuahua.com.mx/rss.xml
+http://diario.mx/RSS/Local/
+http://diario.mx/RSS/El_Paso/
+# Environment
+https://www.reforma.com/rss/verde.xml
+#
+# Italy
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Korea, South
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Canada
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Spain
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Indonesia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Turkey
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Australia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Iran
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Saudi Arabia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Taiwan
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Poland
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Argentina
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Netherlands
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Thailand
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# South Africa
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Pakistan
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Egypt
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Colombia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Malaysia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Nigeria
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Philippines
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Belgium
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Venezuela
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Sweden
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Hong Kong
+#
+# People and Society
+http://www.scmp.com/rss/2/feed
+http://www.scmp.com/rss/318207/feed
+http://www.scmp.com/rss/318208/feed
+# Government and Politics
+http://www.scmp.com/rss/318206/feed
+# Economy
+http://www.scmp.com/rss/318210/feed
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Switzerland
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Austria
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Vietnam
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Peru
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Singapore
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Ukraine
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Chile
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Bangladesh
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Romania
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Czech Republic
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Algeria
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Norway
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Israel
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# United Arab Emirates
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Greece
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Iraq
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Kazakhstan
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Portugal
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Denmark
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Qatar
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Hungary
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Finland
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Ireland
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Morocco
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Kuwait
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Ecuador
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Belarus
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# New Zealand
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Sri Lanka
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Slovakia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Angola
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Cuba
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Ethiopia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Uzbekistan
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Burma
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Tunisia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Syria
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Bulgaria
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Azerbaijan
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Dominican Republic
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Oman
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Ghana
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Sudan
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Guatemala
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Serbia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Kenya
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Tanzania
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Croatia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Libya
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Lithuania
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Puerto Rico
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Lebanon
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Yemen
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Panama
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Costa Rica
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Bolivia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Slovenia
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Uruguay
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Turkmenistan
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Uganda
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Cameroon
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Macau
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# El Salvador
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Paraguay
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+# World News
+
+# Regional and Cities
+
+# Environment
+
+#
+# Afghanistan
+#
+# People and Society
+
+# Government and Politics
+
+# Economy
+
+# Energy
+
+# Communications
+
+# Transportation
+
+# Military and Security
+
+# Transnational Issues
+
+
