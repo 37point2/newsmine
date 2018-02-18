@@ -41,7 +41,7 @@ cd $dags_dir
 if [ $run_tests == 1 ]; then
 	echo "Testing dags"
 	ds=$(date +%Y-%m-%dT%H:%M:%S)
-	# airflow test import_rss_dag load_data $ds
-	# airflow test get_feeds_dag fetch_feed_data $ds
+	airflow test import_rss_dag load_data $ds
+	airflow test get_feeds_dag fetch_feed_data $ds
 	airflow test get_feeds_dag parse_feed_data $ds
 fi
