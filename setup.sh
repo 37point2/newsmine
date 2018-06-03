@@ -26,22 +26,29 @@ if [ ! -d $dags_dir ]; then
 fi
 
 echo "Copying files"
+cp __init__.py $dags_dir/.
 cp import_rss_dag.py $dags_dir/.
 cp get_feeds_dag.py $dags_dir/.
+cp parse_articles_dag.py $dags_dir/.
 cp rss.txt $AIRFLOW_HOME/.
 cp rss.py $dags_dir/.
+cp feed.py $dags_dir/.
+cp article_parser.py $dags_dir/.
 cp file_utils.py $dags_dir/.
+cp time_utils.py $dags_dir/.
 cp feed_parser.py $dags_dir/.
 
 echo "Setting up dags"
 cd $dags_dir
 ./import_rss_dag.py
 ./get_feeds_dag.py
+./parse_articles_dag.py
 
 if [ $run_tests == 1 ]; then
 	echo "Testing dags"
 	ds=$(date +%Y-%m-%dT%H:%M:%S)
-	airflow test import_rss_dag load_data $ds
-	airflow test get_feeds_dag fetch_feed_data $ds
-	airflow test get_feeds_dag parse_feed_data $ds
+	# airflow test import_rss_dag load_data $ds
+	# airflow test get_feeds_dag fetch_feed_data $ds
+	# airflow test get_feeds_dag parse_feed_data $ds
+	airflow test get_feeds_dag get_articles $ds
 fi

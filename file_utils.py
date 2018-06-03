@@ -4,6 +4,29 @@ import os
 import sys
 import re
 
+FEED_BASE = 'feeds'
+RAW_FEED = '.raw_feed'
+PARSED_FEED = '.parsed_feed'
+RAW_ARTICLE = '.raw_article'
+PARSED_ARTICLE = '.parsed_article'
+SUMMARIZED_ARTICLE = '.summ_article'
+KEYWORDS_ARTICLE = '.key_article'
+
+
+def walk_dirs(path, ext=None):
+    paths = []
+    for root, dirs, files in os.walk(path):
+        print(root, dirs, files)
+        for name in dirs:
+            for subdir in walk_dirs(name):
+                paths.append(os.path.join(root, subdir))
+        for name in files:
+            paths.append(os.path.join(root, name))
+
+    paths = [path for path in paths if (not ext or path.endswith(ext))]
+
+    return paths
+
 
 def get_mount_folder():
     return os.path.join('/mnt', 'data')
@@ -33,6 +56,17 @@ def datestamp_id_to_path(ds, src_id):
     return os.path.join(datestamp_to_path(ds), str(src_id))
 
 
+def baseurl_to_file_name(url):
+    # Remove protocol if exists
+    if '://' in url:
+        url = url.split('://')[1]
+
+    # Remove path if exists
+    if '/' in url:
+        url = url.split('/')[0]
+
+    return url_to_file_name(url)
+
 def url_to_file_name(url):
     #
     # Nearly impossible to know all the things that could
@@ -59,5 +93,5 @@ if __name__ == '__main__':
     assert(datestamp_to_path('2018-02-18T00:00:00') == '2018/02/18/00/00/00')
 
     print(url_to_file_name('http://hosted.ap.org/lineups/USHEADS-rss_2.0.xml?SITE=SCAND&SECTION=HOME'))
-    assert(url_to_file_name('http://hosted.ap.org/lineups/USHEADS-rss_2.0.xml?SITE=SCAND&SECTION=HOME'),
+    assert(url_to_file_name('http://hosted.ap.org/lineups/USHEADS-rss_2.0.xml?SITE=SCAND&SECTION=HOME') ==
             'http_hosted_ap_org_lineups_usheads_rss_2_0_xml_site_scand_section_home')

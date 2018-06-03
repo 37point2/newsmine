@@ -15,6 +15,8 @@ def make_database(drop=False):
     user_name = 'airflow'
     rss_urls_table = 'rss_urls'
     rss_feeds_table = 'rss_feeds'
+    rss_articles_table = 'rss_articles'
+    parsed_articles_table = 'parsed_articles'
 
     engine = create_engine('postgresql+psycopg2://{}@localhost/{}'.format(user_name, db_name))
 
@@ -26,12 +28,20 @@ def make_database(drop=False):
     curr = conn.cursor()
 
     if drop:
-        drop_rss_urls_table = 'DROP TABLE {}'.format(rss_urls_table)
-        curr.execute(drop_rss_urls_table)
-        conn.commit()
+        #
+        # Are you really sure you want to do this?
+        # ids for rss feeds are used in filesystem paths
+        #
+        # drop_rss_urls_table = 'DROP TABLE {}'.format(rss_urls_table)
+        # curr.execute(drop_rss_urls_table)
+        # conn.commit()
 
         drop_rss_feeds_table = 'DROP TABLE {}'.format(rss_feeds_table)
         curr.execute(drop_rss_feeds_table)
+        conn.commit()
+
+        drop_rss_articles_table = 'DROP TABLE {}'.format(rss_articles_table)
+        curr.execute(drop_rss_articles_table)
         conn.commit()
 
     create_rss_urls_table = '''CREATE TABLE IF NOT EXISTS {}
@@ -63,6 +73,41 @@ def make_database(drop=False):
             '''.format(rss_feeds_table)
     curr.execute(create_rss_feeds_table)
     conn.commit()
+
+    create_rss_articles_table = '''CREATE TABLE IF NOT EXISTS {}
+            (
+                id          SERIAL,
+                rss_id      INT NOT NULL,
+                url         TEXT NOT NULL UNIQUE,
+                file_path   TEXT,
+                added       timestamp
+            )
+
+            '''.format(rss_articles_table)
+    curr.execute(create_rss_articles_table)
+    conn.commit()
+
+    create_parsed_articles_table = '''CREATE TABLE IF NOT EXISTS {}
+            (
+                id              SERIAL,
+                rss_id          INT NOT NULL,
+                url             TEXT NOT NULL UNIQUE,
+                authors         TEXT,
+                file_path       TEXT,
+                publish_date    timestamp,
+                added           timestamp
+            )
+            '''.format(parsed_articles_table)
+    curr.execute(create_parsed_articles_table)
+    conn.commit()
+
+    try:
+        alter_parsed_articles_table = '''ALTER TABLE IF EXISTS {} 
+            ADD title TEXT'''.format(parsed_articles_table)
+        curr.execute(alter_parsed_articles_table)
+        conn.commit()
+    except psycopg2.ProgrammingError:
+        pass
 
     conn.close()
 

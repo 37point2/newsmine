@@ -35,7 +35,7 @@ def get_parser(path):
         print('Error: Unknown xml feed format {}'.format(path), sys.stderr)
         return None
 
-class Parser(object):
+class FeedParser(object):
 
     def __init__(self, path):
         self.path = path
@@ -49,7 +49,7 @@ class Parser(object):
         raise NotImplementedError
 
 
-class Atom2Parser(Parser):
+class Atom2Parser(FeedParser):
 
     def parse(self):
         tree = etree.parse(BytesIO(self.raw))
