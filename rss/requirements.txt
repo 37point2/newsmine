@@ -1,0 +1,3 @@
+confluent-kafka
+prometheus_client
+requests

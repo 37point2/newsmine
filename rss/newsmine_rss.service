@@ -1,0 +1,13 @@
+[Unit]
+Description=newsmine_rss
+Requires=kafka.service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/newsmine_rss
+ExecStart=/opt/newsmine_rss/run.sh
+
+[Install]
+WantedBy=multi-user.target
