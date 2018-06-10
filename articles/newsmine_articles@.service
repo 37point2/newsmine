@@ -1,0 +1,13 @@
+[Unit]
+Description=newsmine_articles, instance %i
+Requires=kafka.service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/newsmine_articles
+ExecStart=/opt/newsmine_articles/venv/bin/python3.5 articles.py %i
+
+[Install]
+WantedBy=multi-user.target

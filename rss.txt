@@ -59,7 +59,6 @@ http://www.nytimes.com/services/xml/rss/nyt/JobMarket.xml
 http://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml
 http://www.latimes.com/business/autos/rss2.0.xml
 http://www.latimes.com/business/jobs/rss2.0.xml
-http://www.latimes.com/business/jobs/rss2.0.xml
 https://www.politico.com/rss/economy.xml
 http://thehill.com/taxonomy/term/30/feed
 http://thehill.com/taxonomy/term/2005/feed
@@ -252,7 +251,6 @@ https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms
 https://timesofindia.indiatimes.com/rssfeeds/2950623.cms
 https://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms
 https://timesofindia.indiatimes.com/rssfeeds/3947060.cms
-https://timesofindia.indiatimes.com/rssfeeds/4118235.cms
 https://timesofindia.indiatimes.com/rssfeeds/4118235.cms
 https://timesofindia.indiatimes.com/rssfeeds/6547154.cms
 https://timesofindia.indiatimes.com/rssfeeds/4118215.cms

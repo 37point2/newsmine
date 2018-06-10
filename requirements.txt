@@ -1,3 +1,0 @@
-sqlalchemy
-sqlalchemy_utils
-pyscopg2

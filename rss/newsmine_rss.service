@@ -7,7 +7,7 @@ After=network.target
 Type=simple
 User=root
 WorkingDirectory=/opt/newsmine_rss
-ExecStart=/opt/newsmine_rss/run.sh
+ExecStart=/opt/newsmine_rss/venv/bin/python3.5 rss.py
 
 [Install]
 WantedBy=multi-user.target

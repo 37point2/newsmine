@@ -1,0 +1,4 @@
+confluent-kafka
+prometheus_client
+requests
+newspaper3k

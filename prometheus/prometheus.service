@@ -1,0 +1,13 @@
+[Unit]
+Description=prometheus
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/prometheus
+ExecStart=/opt/prometheus/prometheus --config.file=prometheus.yml
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

@@ -10,3 +10,4 @@ systemctl daemon-reload
 systemctl enable kafka
 
 systemctl start kafka                                                                                   
+systemctl status kafka
